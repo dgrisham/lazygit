@@ -671,6 +671,10 @@
               "type": "string",
               "default": "\u003cesc\u003e"
             },
+            "return-alt": {
+              "type": "string",
+              "default": ""
+            },
             "quitWithoutChangingDirectory": {
               "type": "string",
               "default": "Q"
